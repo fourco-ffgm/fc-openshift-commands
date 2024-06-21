@@ -1,0 +1,11 @@
+- `kubectl --help`
+- `kubectl create help`
+- `oc help`
+- `oc create --help`
+- `oc version`
+- `oc cluster-info`
+- `oc api-versions`
+- `oc get clusteroperators`
+- `oc get pods`
+- `oc explain services`
+- `oc get node`
